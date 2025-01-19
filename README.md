@@ -8,10 +8,13 @@
 💭 Currently learning about SQL databases!<br/>
 
 <!-- Stats regarding my github account -->
+    
+<!--
     <h3 align="left">Stats</h3>
-    <p>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aranzar0driguez&theme=jolly" alt="aranzar0driguez" />
+     <p>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aranzar0driguez&theme=jolly" alt="aranzar0driguez" />
     </p>
+-->
 
 <!-- Languages I've utilized  -->
 
