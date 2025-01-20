@@ -8,14 +8,16 @@
 💭 Currently learning about SQL databases!<br/>
 
 <!-- Stats regarding my github account -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aranzar0driguez&layout=compact&theme=radical)
 <!--
-    <h3 align="left">Stats</h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aranzar0driguez&layout=compact&theme=radical)
+-->
+
+
+ <h3 align="left">Stats</h3>
      <p>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aranzar0driguez&theme=jolly" alt="aranzar0driguez" />
     </p>
--->
+
 
 <!-- Languages I've utilized  -->
 
