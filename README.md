@@ -3,7 +3,7 @@
 # 🦙 Hi, I'm Aranza Rodriguez!
 
 👩🏽‍💻 Working on transitioning from Marketing -> Software Engineering.<br/>
-👩🏻‍🎓 Graduated from Yale University.<br/>
+👩🏽‍🎓 Graduated from Yale University.<br/>
 🦙 Feel free to check out my [personal website](https://www.aranzarodriguez.dev).<br/>
 💭 Currently learning about SQL databases!<br/>
 
