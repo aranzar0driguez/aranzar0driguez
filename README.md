@@ -9,6 +9,9 @@
 
 <!-- Stats regarding my github account -->
 
+
+<h3 align="left">Languages</h3>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aranzar0driguez&layout=compact&theme=radical)
 
 
